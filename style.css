@@ -1,0 +1,42 @@
+.header{
+    border-style:solid;
+    background-image:url("https://airwaysmag.com/wp-content/uploads/2016/03/Boeing_747_landing_at_Barcelona_in_a_golden_sunset-680x365_c.jpg");
+}
+
+.job-title{
+    font-weight:bold;
+    color:maroon;
+}
+
+}
+.content{
+    font-size:20px;
+    font-family:Arial;
+    border: 2px solid black;
+    
+    padding: 15px; 
+            
+    margin: 0px 30px 50px 15px;
+}
+ 
+ 	
+.jumbotron{
+    background-image:url("https://img.lum.dolimg.com/v1/game_container/img/teaserBackground.jpg");
+}
+body{
+                background-color:Green;  
+                font-family: Helvetica;
+            }
+            
+            h1 {
+                color:Black;
+            }
+            
+            h2 {
+                color:Black;
+            }
+            
+            h3 {
+                color:Black;
+            }
+
